@@ -42,7 +42,7 @@ You need a modern web browser to run this application and an API key from a weat
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/sharath453/weather-checker.git
+   git clone https://github.com/sharath453/Whether_checker.git
 2. Open the index.html file in your browser to start the application.
 3. Replace the placeholder in the JavaScript file with your own API key from the weather service provider.
    
@@ -61,4 +61,4 @@ Email - alsharath66@gmail.com<br>
 LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
 
 ## Project Link
-https://github.com/sharath453/weather-checker.git
+https://github.com/sharath453/Whether_checker.git
